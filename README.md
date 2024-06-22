@@ -1,8 +1,8 @@
-# Lok-Sabha-Election-2014-2019-Analysis
+# Lok Sabha Election 2014 & 2019 Analysis
 
-## LinkedIn Post On Analysis
+## LinkedIn Post On Analysis Link
 ```
-Link to Video : https://www.linkedin.com/feed/update/urn:li:activity:7206034971000463363/
+https://www.linkedin.com/feed/update/urn:li:activity:7206034971000463363/
 
 ```
 
