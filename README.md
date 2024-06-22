@@ -1,10 +1,10 @@
 # Lok-Sabha-Election-2014-2019-Analysis
 
 ## LinkedIn Post On Analysis
-``
+```
 Link to Video : https://www.linkedin.com/feed/update/urn:li:activity:7206034971000463363/
 
-``
+```
 
 ## National Level Analysis
 ![](https://github.com/Singhyash9009/Lok-Sabha-Election-2014-2019-Analysis/blob/main/Image/NL_Image.png)
